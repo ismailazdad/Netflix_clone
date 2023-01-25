@@ -1,5 +1,5 @@
 # Netflix Clone movies trailer 
-
+please 🙏 rate this project if you think it's useful ☺️ 
 ![image](./src/assets/preview.png?raw=true)
 
 ![](./src/assets/demo.gif?raw=true)
